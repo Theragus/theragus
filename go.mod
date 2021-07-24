@@ -1,3 +1,3 @@
-module example.com/m/v2
+module example.com/hello
 
 go 1.16
