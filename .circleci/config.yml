@@ -1,7 +1,7 @@
 version: 2.1
 
 jobs:
-  build:
+  hello-world:
     docker:
       - image: alpine:3.7
     steps:
@@ -9,8 +9,8 @@ jobs:
           name: The First Step
           command: |
             echo 'Hello World!'
-            echo 'This is the delivery pipeline'
-            
+            echo 'This is the CircleCI delivery pipeline'
+
 workflows:
   version: 2
   default:
@@ -22,4 +22,4 @@ workflows:
               only:
                 - main
     jobs:
-       - build
+       - hello-world
