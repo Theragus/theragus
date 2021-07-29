@@ -9,3 +9,13 @@ jobs:
           command: |
             echo 'Hello World!'
             echo 'This is the delivery pipeline'
+workflows:
+  version: 2
+  default:
+    triggers:
+      - schedule:
+          cron: "0 12 * * *"
+          filters:
+            branches:
+              only:
+                - main
