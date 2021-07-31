@@ -10,16 +10,3 @@ jobs:
           command: |
             echo 'Hello World!'
             echo 'This is the CircleCI delivery pipeline'
-
-workflows:
-  version: 2
-  default:
-    triggers:
-      - schedule:
-          cron: "0,10,20,30,40,50 * * * *"
-          filters:
-            branches:
-              only:
-                - main
-    jobs:
-       - hello-world
