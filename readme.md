@@ -1,1 +1,1 @@
-Classic MS Server Admin turn into DevOps and Open Source enthusias
+Classic MS Server Admin turn into DevOps and Open Source enthusiast
