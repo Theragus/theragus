@@ -1,4 +1,4 @@
-Classic MS Server Admin turn into DevOps and Open Source enthusiast
+Classic MS Server Admin turned into DevOps, Cloud and Open Source enthusiast
 
 Interests / what im currently working on:
 
