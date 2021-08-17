@@ -1,1 +1,1 @@
-[![CircleCI](https://circleci.com/gh/Theragus/theragus/tree/test.svg?style=svg)](https://circleci.com/gh/Theragus/theragus/tree/test)
+Classic MS Server Admin turn into DevOps and Open Source enthusias
