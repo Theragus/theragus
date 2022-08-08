@@ -4,9 +4,9 @@ Interests / what im currently working on:
 
 - Cloud Computing Platforms (mainly Azure, also AWS and GCP)
 - Infrastructure as Code (Terraform), Infracost
-- Office 365 Expert and Consultant
-- DevOps
-- Scrum (currently working on Scrum Master certification)
+- Vault, Consul, etcd etc...
+- M365 Expert and Consultant
+- DevOps, CI/CD
 
 Private Stuff:
 
