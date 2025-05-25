@@ -1,12 +1,1 @@
-version: 2.1
 
-jobs:
-  hello-world:
-    docker:
-      - image: alpine:3.7
-    steps:
-      - run:
-          name: The First Step
-          command: |
-            echo 'Hello World!'
-            echo 'This is the CircleCI delivery pipeline'
