@@ -33,13 +33,10 @@ Most of consulting is figuring out which one.
 **Private stuff**
 
 - Living and working in BY/Germany
-- Gaming, mainly Old-School / Retro: Super Metroid, Dead Cells, Hollow Knight, Pokémon — plus
-  Zenless Zone Zero when I want something loud
-- I optimize six-figure cloud spend for a living and then lose a rate-limited coin flip to a ZZZ
-  banner. The pity counter is the only SLA I fully trust.
+- Gaming, mainly Old-School / Retro: Super Metroid, Dead Cells, Hollow Knight, Pokémon, ZZZ
 - Yes, I do my ZZZ dailies before my standup. Both are 15 minutes and both involve grinding.
+- I design highly available systems for a living and still lost my 50/50. Some coin flips have no
+  failover, no retry policy and no post-mortem. Pity is the only SLA I fully trust.
 - Still trying to catch all the certs. Some of them are shiny.
 
 Work related projects over at [toowoxx](https://github.com/toowoxx).
-
-> Never Stop! 👊
