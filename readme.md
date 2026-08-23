@@ -1,7 +1,7 @@
 ### 👊 Never Stop!
 
 Cloud/M365/Azure guy from Bavaria, currently employed as a **Proxy** for enterprise tenants.
-You bring the Hollow, I bring the flashlight, the Bangboo, and a suspiciously long PowerShell script.
+You bring the Problem, I bring the flashlight, and a suspiciously long PowerShell script.
 
 ```text
 Day job:  untangle someone's Entra ID spaghetti base
