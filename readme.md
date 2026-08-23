@@ -3,7 +3,7 @@
 Classic MS Server Admin turned DevOps / Cloud / Open Source enthusiast, from BY/Germany.
 
 My job is mostly walking into someone's tenant with a flashlight and a suspiciously long PowerShell
-script, and walking back out with something that still works after I leave.
+script, and walking back out with something that still works after I leave (mostly).
 
 **What I do**
 
