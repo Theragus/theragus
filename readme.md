@@ -1,6 +1,6 @@
 ### 👊 Never Stop!
 
-I'm Patrick — Cloud/M365/Azure guy from Bavaria, currently employed as a **Proxy** for enterprise tenants.
+Cloud/M365/Azure guy from Bavaria, currently employed as a **Proxy** for enterprise tenants.
 You bring the Hollow, I bring the flashlight, the Bangboo, and a suspiciously long PowerShell script.
 
 ```text
